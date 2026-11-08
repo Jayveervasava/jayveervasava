@@ -2,9 +2,9 @@
 <p align="center"><b>Cyber Security & Digital Forensics</b> · SOC · DFIR · Malware Analysis</p>
 
 <p align="center">
-  <a href="https://jayveervasava.in"><img src="https://img.shields.io/badge/Portfolio-jayveervasava.in-0E7C86?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/jayveervasava"><img src="https://img.shields.io/badge/LinkedIn-jayveervasava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://tryhackme.com/p/jayveervasava"><img src="https://img.shields.io/badge/TryHackMe-jayveervasava-C11111?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
+  <a href="https://jayveervasava.in"><img src="https://img.shields.io/badge/Portfolio-jayveervasava.in-0E7C86?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/jayveervasava"><img src="https://img.shields.io/badge/LinkedIn-jayveervasava-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://tryhackme.com/p/jayveervasava"><img src="https://img.shields.io/badge/TryHackMe-jayveervasava-C11111?style=for-the-badge" alt="TryHackMe"></a>
   <a href="mailto:jayveervasava0710@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
