@@ -5,6 +5,10 @@
   <a href="https://jayveervasava.in"><img src="https://img.shields.io/badge/Portfolio-jayveervasava.in-0E7C86?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/jayveervasava"><img src="https://img.shields.io/badge/LinkedIn-jayveervasava-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
   <a href="https://tryhackme.com/p/jayveervasava"><img src="https://img.shields.io/badge/TryHackMe-jayveervasava-C11111?style=for-the-badge" alt="TryHackMe"></a>
+  <a href="https://app.hackthebox.com/users/2779024"><img src="https://img.shields.io/badge/Hack%20The%20Box-2779024-9FEF00?style=for-the-badge&labelColor=111927" alt="Hack The Box"></a>
+  <a href="https://www.credly.com/users/jayveervasava"><img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge" alt="Credly"></a>
+  <a href="https://medium.com/@jayveervasava"><img src="https://img.shields.io/badge/Medium-Blog-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://hashnode.com/@jayveervasava"><img src="https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"></a>
   <a href="mailto:jayveervasava0710@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -28,6 +32,15 @@
 | **[Static File Inspector](https://github.com/jayveervasava/static-file-inspector)** | Static malware triage: hashes, entropy, PE structure, strings, IOC extraction and MITRE ATT&CK mapping, without running the file | [Live](https://jayveervasava.in/static-file-inspector/) |
 | **[Packet Sniffer + ARP Detector](https://github.com/jayveervasava/packet-sniffer-arp-detect)** | Scapy-based sniffer that detects ARP spoofing (T1557.002) with a Flask dashboard and PCAP/CSV/HTML reports | [Live](https://packet-sniffer-arp-detector.onrender.com) |
 | **[Basic Antivirus Simulation](https://github.com/jayveervasava/basic-antivirus-simulation)** | Signatures + YARA-style rules + heuristics combined into one explainable 0–100 risk score | [Live](https://basic-antivirus-simulation.onrender.com) |
+| **[DaanSetu](https://github.com/jayveervasava/daansetu)** · *B.Tech major project* | Blockchain crowdfunding: donations held in a smart-contract escrow and released milestone by milestone, with automatic refunds | [Code](https://github.com/jayveervasava/daansetu) |
+| **[AI Career Guidance Tool](https://github.com/jayveervasava/ai-career-guidance-tool)** · *B.Tech minor project* | 18-question interest quiz that recommends the top 5 matching careers with roadmaps, exams and salary ranges | [Live](https://ai-career-guidance-tool-z69smste3d9upcvsmjrlwv.streamlit.app) |
+| **[rootjavs.in](https://github.com/jayveervasava/rootjavs)** | Learning platform with 149 courses, in-browser labs, exams and certificates | [Live](https://rootjavs.in) |
+
+### Experience
+
+- **Cyber Security Intern**, SkillFied Mentor (Feb–Mar 2026): vulnerability assessment and OWASP Top 10 web testing
+- **Web Development Intern**, Arth Consultancy Services (Dec 2024–Feb 2025): PHP/MySQL modules with secure login and SQL injection prevention
+- **Summer Intern**, byteXL (May–Jun 2024): data structures and algorithms with Python, and databases
 
 ### Skills & tools
 
